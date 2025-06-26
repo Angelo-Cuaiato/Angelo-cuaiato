@@ -4,6 +4,7 @@
 - 😘 pronomes: ela/dela
 - ✉️ contatar-me: csoaresangelo@gmail.com
 - ❤️ Linguagem favorita: Rust
+- 💍 Nathalya
  
 [![blog](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)]()
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A2ngelo-cuaiato-bb868035a/)
