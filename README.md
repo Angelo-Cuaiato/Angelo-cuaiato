@@ -29,3 +29,10 @@
     <img align="center" alt="htm15" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 </div><br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Angelo-cuaiato/Angelo-cuaiato/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Angelo-cuaiato/Angelo-cuaiato/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Angelo-cuaiato/Angelo-cuaiato/output/pacman-contribution-graph.svg">
+</picture>
+
+###
