@@ -1,7 +1,7 @@
 
 ### Ola! meu nome e Angelo Cuaiato😁
 - 😁 desemvolvedor full-stack ...
-- 😘 pronomes: ela/dela
+- 😘 pronomes: ele/dele
 - ✉️ contatar-me: csoaresangelo@gmail.com
 - ❤️ Linguagem favorita: Rust
  
