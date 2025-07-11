@@ -1,8 +1,8 @@
-<h2 align="left">Meu nome e Angelo!!!</h2>
+<h1 align="left">Meu nome e Angelo!!!</h1>
 
 ###
 
-<img align="right" height="160" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5rOXBvYWlwc2gxaG5rbGNudGI2M3AwdnJ4YXJ4ZjNoeXU1dXg1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5rOXBvYWlwc2gxaG5rbGNudGI2M3AwdnJ4YXJ4ZjNoeXU1dXg1bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"  />
 
 ###
 
@@ -112,7 +112,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Angelo-cuaiato&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Angelo-cuaiato&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Angelo-cuaiato&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="160" alt="languages graph"  />
 </div>
 
 ###
