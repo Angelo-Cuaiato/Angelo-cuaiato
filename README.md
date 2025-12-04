@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 😁 desenvolvedor full-stack ...<br>- 😘 pronomes: ele/dele<br>- ✉️ contatar-me: csoaresangelo@gmail.com<br>- ❤️ Linguagem favorita: Rust<br>- 👌 Quer ver meu currículo entre: https://angelo-cuaiato.github.io/portifolioonline/</p>
+<p align="left">- 😁 desenvolvedor full-stack ...<br>- 😘 pronomes: ele/dele<br>- ✉️ contatar-me: csoaresangelo@gmail.com<br>- ❤️ Linguagem favorita: Rust e C#<br>- 👌 Quer ver meu currículo entre: https://angelo-cuaiato.github.io/portifolioonline/</p>
 
 ###
 
